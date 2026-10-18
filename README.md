@@ -1,4 +1,3 @@
-# Intelligent-Embedded-Battery-Management-System-for-an-Autonomous-Solar-Drone
 # Intelligent Embedded Battery Management System for an Autonomous Solar Drone
 
 ## 📌 Context
